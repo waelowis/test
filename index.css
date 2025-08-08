@@ -6,8 +6,9 @@
 body {
 h1{
     font-size: 2rem;
-    color: #333;
+    color: #832b2b;
     text-align: center;
+    text-decoration: yellowgreen underline;
     margin-top: 20px;
 }
 }
